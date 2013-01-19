@@ -1,0 +1,28 @@
+{
+	"name": "jQuery Querystring",
+	"title": "jQuery Querystring",
+	"description": "jQuery plugin for accessing and manipulating query strings in an easier way.",
+	"keywords": ["query", "string", "querystring"],
+	"version": "1.0.0",
+	"author": {
+		"name": "System Crasher",
+	},
+	"maintainers": [
+		{
+			"name": "System Crasher",
+			"email": "syst3mcrash3r@gmail.com"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/SystemCrasher/jQuery-Query-String/blob/master/LICENSE.md"
+		}
+	],
+	"bugs": "https://github.com/SystemCrasher/jQuery-Query-String/issues",
+	"homepage": "https://github.com/SystemCrasher/jQuery-Query-String",
+	"docs": "https://github.com/SystemCrasher/jQuery-Query-String/wiki"
+	"dependencies": {
+		"jquery": ">=1.8.3"
+	}
+}
